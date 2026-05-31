@@ -1,0 +1,5 @@
+Deep learning is part of a broader family of machine learning methods based on
+artificial neural networks. Learning can be supervised or unsupervised. Deep learning
+architectures such as deep neural networks and recurrent neural networks have been
+applied to fields including computer vision and natural language processing. Deep
+learning models require large amounts of training data and computational resources.

@@ -1,0 +1,5 @@
+Cloud computing is the delivery of computing services including servers storage
+databases networking software analytics and intelligence over the Internet to offer
+faster innovation and flexible resources. Cloud computing allows organizations to
+avoid upfront infrastructure costs. Most cloud computing services are provided on
+demand meaning companies pay only for the cloud resources they actually use.

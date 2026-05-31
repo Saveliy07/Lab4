@@ -1,0 +1,5 @@
+Natural language processing is a subfield of linguistics and artificial intelligence
+concerned with the interactions between computers and human language. The goal of
+natural language processing is to enable computers to understand interpret and generate
+human language. Natural language processing combines computational linguistics with
+statistical learning and deep learning models for language understanding.

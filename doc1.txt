@@ -1,0 +1,5 @@
+Machine learning is a subset of artificial intelligence that focuses on building systems
+that learn from data. Machine learning algorithms build a mathematical model based on
+sample data known as training data. Machine learning is closely related to computational
+statistics. The discipline of machine learning employs various approaches to teach
+computers to accomplish tasks where no fully satisfactory algorithm is available.
